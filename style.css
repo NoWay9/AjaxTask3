@@ -1,0 +1,10 @@
+.item, .header{
+    display:flex;
+    border: 1px solid black;
+}
+
+.item p, .header p{
+
+    flex-basis: 35%;
+
+}
